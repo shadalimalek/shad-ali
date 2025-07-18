@@ -33,6 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shad-ali&show_icons=true&theme=radical" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shad-ali&theme=radical" />
+  <br />
+  https://github-readme-activity-graph.cyclic.app/graph?username=shad-ali&theme=rogue
 </p>
 
 ---
